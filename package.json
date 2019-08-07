@@ -1,0 +1,29 @@
+{
+  "name": "amberdata-example-chainlink",
+  "version": "1.0.0",
+  "description": "Sample Contracts with Chainlink interacting Amberdata API",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amberdata/amberdata-example-chainlink.git"
+  },
+  "keywords": [
+    "Amberdata",
+    "Chainlink",
+    "Decentralized",
+    "Oracles",
+    "Blockchain",
+    "Ethereum"
+  ],
+  "author": "@trevorjtclarke",
+  "bugs": {
+    "url": "https://github.com/amberdata/amberdata-example-chainlink/issues"
+  },
+  "homepage": "https://github.com/amberdata/amberdata-example-chainlink#readme"
+}
