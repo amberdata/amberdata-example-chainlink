@@ -7,7 +7,7 @@ contract AmberdataBasic is ChainlinkClient, Ownable {
   uint256 public currentGasPrice;
 
   constructor() Ownable() public {
-    setPublicChainlinkToken();
+    /* setPublicChainlinkToken(); */
   }
 
   function requestGasPrice(address _oracle, bytes32 _jobId) public onlyOwner {
