@@ -4,14 +4,6 @@ If you are looking to contribute, please take a look at the current open issues 
 
 Of course feel free to make your own issues if you think something needs to be added or fixed.
 
-# Basic quality checks
-
-Please ensure that all tests pass before submitting changes. Most projects have a full test suite that are automatically run as part of the default phase of the npm lifecycle (`npm install`).
-
-They can also be run individually: unit tests with `npm test`.
-
-We follow the default Airbnb code formatting style, please make sure to follow and adhere to these conventions when submitting code.
-
 # Submitting Changes
 
 Please sign the [Contributor License Agreement](https://docs.google.com/forms/d/e/1FAIpQLSc6O3CudbzEvSEos_VbXAf6bah05dvx_OZRXDHBx7gFLe-uJA/viewform).
